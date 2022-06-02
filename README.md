@@ -1,2 +1,3 @@
-# NestJSFlutterSocketChat
-NestJS 및 플러터로 소켓통신 채팅 만들기
+# NestJSSocketChat
+NestJS로 소캣챗 만들기
+
